@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MPM3610AGQV-P)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/MPM3610AGQV-P.lib)(options "")(descr ""))
+)
