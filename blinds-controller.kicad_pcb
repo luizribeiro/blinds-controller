@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 6)
+    (drawings 9)
     (tracks 189)
     (zones 0)
     (modules 12)
@@ -818,6 +818,15 @@
       (net 2 GND))
   )
 
+  (gr_text "GND\n" (at 73.152 47.752) (layer F.SilkS) (tstamp 6046208B)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right))
+  )
+  (gr_text "3.3V\n" (at 73.152 45.212) (layer F.SilkS) (tstamp 6046208B)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right))
+  )
+  (gr_text "Vin\n" (at 73.152 42.672) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right))
+  )
   (gr_text "espBlinds v0.1\nl9o.dev" (at 69.596 22.86) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
