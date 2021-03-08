@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name MPM3610AGQV-P)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/MPM3610AGQV-P.lib)(options "")(descr ""))
   (lib (name ESP32-S2-WROOM)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/ESP32-S2-WROOM.lib)(options "")(descr ""))
+  (lib (name FTSH-105-01-L-DV-007-K-P-TR)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/FTSH-105-01-L-DV-007-K-P-TR.lib)(options "")(descr ""))
 )
